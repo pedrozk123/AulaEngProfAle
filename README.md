@@ -1,2 +1,2 @@
 # AulaEngProfAle
-Aula Engenhara de Software/// História do Git 
+Aula Engenharia de Software/// História do Git 
